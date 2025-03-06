@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-t99" alt="abhishek-t99" /></a> </p>
 
-- 🔭 I’m currently working on [E-Commerce Application API](https://github.com/abhishek-T99/ecommerce_backend)
+- 🔭 I’m currently working on [ShopNova - An E-Commerce Application](https://github.com/abhishek-T99/ecommerce_backend)
 
 - 📫 How to reach me **timilsina.abhishek@gmail.com**
 
