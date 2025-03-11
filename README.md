@@ -24,5 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-t99&show_icons=true&locale=en" alt="abhishek-t99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-t99&" alt="abhishek-t99" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhishek-T99)](https://git.io/streak-stats)
